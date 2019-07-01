@@ -1,9 +1,9 @@
-function defineStructure() {
+// function defineStructure() {
 
-}
-function onSync(lastSyncDate) {
+// }
+// function onSync(lastSyncDate) {
 
-}
+// }
 /**
  * Dataset com integracao ao webservice (SOAP) da plataforma fluig para inclusao
  * de registro(s) de formulario. 
@@ -235,6 +235,6 @@ function getDtsError(errObj) {
 	return dtsError;
 }
 
-function onMobileSync(user) {
+// function onMobileSync(user) {
 
-}
+// }
