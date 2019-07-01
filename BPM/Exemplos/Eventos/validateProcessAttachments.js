@@ -1,3 +1,7 @@
+/**
+ * Valida existencia de anexo especifico
+ */
+
 var anexos = hAPI.listAttachments();
 
 //if (anexos.empty){
